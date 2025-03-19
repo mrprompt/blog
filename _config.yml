@@ -1,35 +1,22 @@
 # Site settings
 title: Thiago Paes - Blog Pessoal
+email: mrprompt@gmail.com
+url: https://mrprompt.com.br
 description: Blog pessoal do desenvolvedor web Thiago Paes - mrprompt
-url: https://www.mrprompt.com.br
-baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: https://mrprompt.com.br
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/mrprompt
 
 # Build settings
-highlighter: rouge
-timezone: America/Sao_Paulo
+markdown: kramdown
 permalink: pretty
-
-# Pagination
-paginate: 5
-pagination_path: "/:num"
-
-# Use your search engine ID
-google_cse_id: "002596954644940765615:oyvb7cllqbi" 
-
-# Plugins
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-admin
-
-sass:
-  style: compressed
-
-#jekyll_admin:
-#  hidden_links:
-#    - posts
-#    - pages
-#    - staticfiles
-#    - datafiles
-#    - configuration
