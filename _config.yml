@@ -1,3 +1,5 @@
+remote_theme: "jekyll/minima@1e8a445"
+
 # Site settings
 title: mrprompt
 email: mrprompt@gmail.com
@@ -7,3 +9,6 @@ description: Este é meu site pessoal e nele você pode me conhecer e alguns dos
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+minima:
+  skin: classic
