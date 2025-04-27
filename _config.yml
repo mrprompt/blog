@@ -18,9 +18,6 @@ minima:
     - title: GitHub
       icon: github
       url: "https://github.com/mrprompt"
-    - title: Site
-      icon: sitemap
-      url: "https://mrprompt.com.br"
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/paesthiago/"
