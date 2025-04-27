@@ -4,7 +4,7 @@ remote_theme: "jekyll/minima@1e8a445"
 title: mrprompt
 email: mrprompt@gmail.com
 url: "/blog"
-description: Este é meu site pessoal e nele você pode me conhecer e alguns dos meus projetos.
+description: Um punhado de testados de escrevi para meu antigo blog.
 
 # Build settings
 markdown: kramdown
