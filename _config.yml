@@ -4,23 +4,6 @@ email: mrprompt@gmail.com
 url: "/blog"
 description: Este é meu site pessoal e nele você pode me conhecer e alguns dos meus projetos.
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Footer settings
-footer: https://mrprompt.com.br
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: github
-    url: https://github.com/mrprompt
-  - title: instagram
-    url: https://instagram.com/onegaothiago
-  - title: instagram
-    url: https://instagram.com/pu5jnp
-
 # Build settings
 markdown: kramdown
 permalink: pretty
