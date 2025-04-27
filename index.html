@@ -6,6 +6,7 @@ slug: index
 <div class="container">
 	<div class="row">
 		<!-- Blog Posts -->
+		{% assign posts = paginator.posts %}
 		{% for post in post in site.posts %}
 		<div class="col-md-12">
 			<article class="post-content">
