@@ -9,6 +9,7 @@ description: Um punhado de textos que escrevi para meu antigo blog.
 # Build settings
 markdown: kramdown
 permalink: pretty
+lang: pt-br
 
 minima:
   skin: classic
