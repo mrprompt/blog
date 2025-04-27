@@ -2,9 +2,9 @@ remote_theme: "jekyll/minima@1e8a445"
 
 # Site settings
 title: mrprompt
-email: mrprompt@gmail.com
+email: contato@mrprompt.com.br
 url: "/blog"
-description: Um punhado de testados de escrevi para meu antigo blog.
+description: Um punhado de textos que escrevi para meu antigo blog.
 
 # Build settings
 markdown: kramdown
@@ -12,3 +12,21 @@ permalink: pretty
 
 minima:
   skin: classic
+
+author:
+  name: mrprompt
+  email: contato@mrprompt.com.br
+
+date_format: "%d-%m-%Y"
+
+social_links:
+  - title: GitHub
+    icon: github
+    url: "https://github.com/mrprompt"
+  - title: Site
+    icon: computer
+    url: "https://mrprompt.com.br"
+  - title: LinkedIn
+    icon: linkedin
+    url: "https://www.linkedin.com/in/paesthiago/"
+    
