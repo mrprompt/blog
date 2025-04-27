@@ -24,6 +24,9 @@ minima:
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/paesthiago/"
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/onegaothiago/"
     
 author:
   name: mrprompt
