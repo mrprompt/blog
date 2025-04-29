@@ -14,7 +14,7 @@ lang: pt-br
 minima:
   skin: classic
   date_format: "%d-%m-%Y"
-  hide_site_feed_link: false
+  hide_site_feed_link: "true"
   social_links:
     - title: GitHub
       icon: github
